@@ -1,0 +1,1 @@
+/*Background Image = changed, Colors of Text changed to red & Pink, pink text bold, red text bold and underlined, font sizes on red & pink different, custom text - Cloick button to start game!*/
